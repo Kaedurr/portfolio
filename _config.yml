@@ -23,7 +23,7 @@ email: katedbee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The online portfolio of works by Kate Durr, the independent, driven, and self-motivated 2-D and 3-D Production Designer who specializes in Business, Education, and Entertainment branding and design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://katedurr.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: kateedurr
 instagram_username: kaedurr
 
