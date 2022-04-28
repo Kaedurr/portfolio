@@ -1117,12 +1117,12 @@ h6 span {
 }
 
 
-#social-linkedin, #social-instagram, #social-email {
+#social-linkedin, #social-instagram, #social-github, #social-email {
 	fill: #4f4d47;
 	transition: 0.3s;
 }
 
-#social-linkedin:hover, #social-instagram:hover, #social-email:hover {
+#social-linkedin:hover, #social-instagram:hover, #social-github:hover, #social-email:hover {
 	fill: #b74889;
 }
 
